@@ -3,7 +3,7 @@ name = "SigmaOS-nat"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "nat component"
+description = "SigmaOS SigmaOS-nat component"
 upstream = []
 
 [contract]
